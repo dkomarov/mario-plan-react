@@ -6,6 +6,9 @@
 .pnp.js
 package-lock.json
 
+# config
+src/config/fbConfig.js
+
 # testing
 /coverage
 
