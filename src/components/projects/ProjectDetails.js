@@ -22,7 +22,7 @@ const ProjectDetails = (props) => {
     )
   }
   // console.log('props are:', props)
-  const id = props.match.params.id;
+  // const id = props.match.params.id;
   return (
       <div className="container center">
         <p>Loading project...</p>
