@@ -5,3 +5,6 @@
 ## [TRY IT LIVE!](https://mario-forum.web.app/)
 
 ###### Built with [ReactJS](https://reactjs.org/)
+
+Original Author:
+Shaun [@iamshaunjp](https://github.com/iamshaunjp/React-Redux-Firebase-App)
